@@ -1,0 +1,18 @@
+{
+  "name": "Театр в кармане",
+  "short_name": "Театр",
+  "description": "Android-приложение для афиши, билетов и QR-входа в театр.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061a33",
+  "theme_color": "#149cff",
+  "lang": "ru-RU",
+  "icons": [
+    {
+      "src": "assets/app-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
